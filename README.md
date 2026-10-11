@@ -1,2 +1,3 @@
 # Satyam_Portfolio
-My personal Portfolio website.
+My personal portfolio website showcasing my technical skills, projects, and achievements.
+
